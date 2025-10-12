@@ -18,24 +18,6 @@
 
 Dev full stack especializado em **IA Generativa** e **automação inteligente**. Construo soluções escaláveis do frontend ao backend, integrando LLMs e sistemas multi-agentes para resolver problemas reais.
 
-```python
-class Felipe:
-    def __init__(self):
-        self.role = "Full Stack Developer & AI Engineer"
-        self.location = "Brasil 🇧🇷"
-        self.stack = {
-            "frontend": ["React", "Next.js", "TypeScript", "Tailwind"],
-            "backend": ["Python", "Node.js", "FastAPI", "Express"],
-            "ai_ml": ["OpenAI", "CrewAI", "LangChain", "Anthropic"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis"],
-            "devops": ["Docker", "AWS", "CI/CD", "Linux"]
-        }
-    
-    def current_focus(self):
-        return ["Multi-Agent Systems", "RAG Applications", "AI Automation"]
-```
-
----
 
 ## 🛠️ Tech Stack
 
