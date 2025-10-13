@@ -5,8 +5,7 @@
 ### Full Stack Developer & AI Engineer
 
 [![Website](https://img.shields.io/badge/Website-felipemeiraia.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://felipemeiraia.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FelipeMeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FelipeMeira)
-[![GitHub followers](https://img.shields.io/github/followers/FelipeMeira?logo=github&style=for-the-badge&color=0e75b6)](https://github.com/FelipeMeira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FelipeMeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/FelipeMeira](https://www.linkedin.com/in/felipe-meira-2b38ab244/))
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FelipeMeira&color=blueviolet&style=for-the-badge)
 
@@ -40,10 +39,8 @@ Dev full stack especializado em **IA Generativa** e **automação inteligente**.
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -84,31 +81,9 @@ Dev full stack especializado em **IA Generativa** e **automação inteligente**.
 
 ---
 
-## 💼 Open to
-
-- 🤝 Colaborações em projetos open source
-- 💡 Consultoria em IA e automação
-- 🚀 Projetos full stack desafiadores
-- 🎯 Desenvolvimento de sistemas multi-agentes
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FelipeMeira)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://felipemeiraia.com.br)
-
-</div>
-
----
 
 <div align="center">
   
 ### 💻 "Code is poetry, AI is the future"
-
-**⭐ Se curtiu o perfil, deixa uma estrela nos repos!**
 
 </div>
