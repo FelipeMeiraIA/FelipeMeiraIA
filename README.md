@@ -5,7 +5,7 @@
 ### Full Stack Developer & AI Engineer
 
 [![Website](https://img.shields.io/badge/Website-felipemeiraia.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://felipemeiraia.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FelipeMeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/felipe-meira-2b38ab244/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FelipeMeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-meira-2b38ab244/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FelipeMeira&color=blueviolet&style=for-the-badge)
 
